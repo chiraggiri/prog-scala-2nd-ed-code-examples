@@ -1,4 +1,4 @@
-// src/main/java/progscala2/basicoop/JPerson.java
+// src/main/java/progscala2/basicoop/JPerson.java. This is for test
 package progscala2.basicoop;
 
 public class JPerson {
